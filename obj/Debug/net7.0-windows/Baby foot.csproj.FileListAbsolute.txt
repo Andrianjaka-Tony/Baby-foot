@@ -1,0 +1,22 @@
+D:\S4\Programmation\Baby foot\bin\Debug\net7.0-windows\Baby foot.exe
+D:\S4\Programmation\Baby foot\bin\Debug\net7.0-windows\Baby foot.deps.json
+D:\S4\Programmation\Baby foot\bin\Debug\net7.0-windows\Baby foot.runtimeconfig.json
+D:\S4\Programmation\Baby foot\bin\Debug\net7.0-windows\Baby foot.dll
+D:\S4\Programmation\Baby foot\bin\Debug\net7.0-windows\Baby foot.pdb
+D:\S4\Programmation\Baby foot\obj\Debug\net7.0-windows\Baby foot.csproj.AssemblyReference.cache
+D:\S4\Programmation\Baby foot\obj\Debug\net7.0-windows\Baby foot.GeneratedMSBuildEditorConfig.editorconfig
+D:\S4\Programmation\Baby foot\obj\Debug\net7.0-windows\Baby foot.AssemblyInfoInputs.cache
+D:\S4\Programmation\Baby foot\obj\Debug\net7.0-windows\Baby foot.AssemblyInfo.cs
+D:\S4\Programmation\Baby foot\obj\Debug\net7.0-windows\Baby foot.csproj.CoreCompileInputs.cache
+D:\S4\Programmation\Baby foot\obj\Debug\net7.0-windows\Baby foot.dll
+D:\S4\Programmation\Baby foot\obj\Debug\net7.0-windows\refint\Baby foot.dll
+D:\S4\Programmation\Baby foot\obj\Debug\net7.0-windows\Baby foot.pdb
+D:\S4\Programmation\Baby foot\obj\Debug\net7.0-windows\Baby foot.genruntimeconfig.cache
+D:\S4\Programmation\Baby foot\obj\Debug\net7.0-windows\ref\Baby foot.dll
+D:\S4\Programmation\Baby foot\bin\Debug\net7.0-windows\System.Data.SqlClient.dll
+D:\S4\Programmation\Baby foot\bin\Debug\net7.0-windows\runtimes\win-arm64\native\sni.dll
+D:\S4\Programmation\Baby foot\bin\Debug\net7.0-windows\runtimes\win-x64\native\sni.dll
+D:\S4\Programmation\Baby foot\bin\Debug\net7.0-windows\runtimes\win-x86\native\sni.dll
+D:\S4\Programmation\Baby foot\bin\Debug\net7.0-windows\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\S4\Programmation\Baby foot\bin\Debug\net7.0-windows\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\S4\Programmation\Baby foot\obj\Debug\net7.0-windows\Baby foot.csproj.CopyComplete
